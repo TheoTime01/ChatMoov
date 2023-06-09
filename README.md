@@ -114,7 +114,7 @@ python3 face_detector.py #starts face detection
 
 ## Diagram
 
-[Diagram](/images/diagram.png)
+![Diagram](/images/diagram.png)
 
 ## Todo List
 
