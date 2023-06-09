@@ -1,0 +1,35 @@
+# Ignore text files
+*.txt
+
+# Ignore audio files
+*.mp3
+*.wav
+
+# Ignore env files
+env_inmoov/
+
+# Ignore pycache
+__pycache__/
+
+# Ignore pycache
+*.pyc
+
+# ignore test files
+*_test.py
+
+# Ignore json files
+*.json
+
+# Ignore csv files
+*.csv
+
+# Presentation repository
+présentation/
+
+# Camera repository
+camera/
+
+
+
+
+
