@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ## Prerequisites
 
-- INMOOV robot (head)
+- [INMOOV](https://inmoov.fr/head-3/) robot (head)
 - A camera
 - a microphone
 - 2 Arduino
